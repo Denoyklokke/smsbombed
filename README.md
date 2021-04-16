@@ -7,7 +7,7 @@ pkg install git
 
 pkg install php
 
-git clone https://github.com/WahyuHack/SPAMSMS
+git clone https://github.com/Denoyklokke/smsbombed
 
 cd smsbombed
 
