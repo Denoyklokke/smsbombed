@@ -1,5 +1,5 @@
 # smsbombed
-SPAMSMS
+Smsbombed
 
 pkg update && pkg upgrade
 
@@ -12,4 +12,3 @@ git clone https://github.com/WahyuHack/SPAMSMS
 cd smsbombed
 
 php spambomb.php
-
